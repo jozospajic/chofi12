@@ -6,6 +6,7 @@
 -- Generation Time: Nov 08, 2019 at 01:12 PM
 -- Server version: 10.1.38-MariaDB
 -- PHP Version: 7.3.3
+-- Also Chofi is gay
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET AUTOCOMMIT = 0;
